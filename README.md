@@ -1,4 +1,7 @@
 #To see the live deployed version of this clone go to: https://netflix-clone-d50d5.web.app/
+
+# Other Functionalities
+  ### Click on any of the thumbnails in NETFLIX ORIGINALS to view trailer(provided there is any).
 ______________________________________________________
 
 
