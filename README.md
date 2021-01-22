@@ -1,3 +1,10 @@
+#To see the live deployed version of this clone go to: https://netflix-clone-d50d5.web.app/
+______________________________________________________
+
+
+
+______________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
